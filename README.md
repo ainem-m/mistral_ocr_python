@@ -2,7 +2,7 @@
 
 ## 概要 (Overview)
 
-このスクリプトは、Mistral AIのOCR API (`mistral-ocr-latest`) を使用して、指定されたPDFファイルまたはURLからテキストと画像を抽出し、Markdownファイルとして保存します。抽出された画像は、Markdownファイルと同じディレクトリに個別のファイルとして保存されます。
+このスクリプトは、[Mistral AI](https://mistral.ai/news/mistral-ocr)のOCR API (`mistral-ocr-latest`) を使用して、指定されたPDFファイルまたはURLからテキストと画像を抽出し、Markdownファイルとして保存します。抽出された画像は、Markdownファイルと同じディレクトリに個別のファイルとして保存されます。
 
 ## 機能 (Features)
 
